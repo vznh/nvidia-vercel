@@ -1,4 +1,4 @@
-const researchPapers = [
+export const researchPapers = [
   "Effects of Energy Solutions in Cryptocurrency",
   "Exploring Nanotechnology in Cryptocurrency",
   "Advancements in Microplastics in Urban Development",
